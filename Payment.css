@@ -1,0 +1,107 @@
+.img {
+
+    margin-left: 7px;
+    margin-top: 7px;
+  }
+  .sp{
+
+    margin-left: 350px;
+    margin-top: -40px;
+    cursor: pointer;
+    
+  }
+
+  .iv{
+    margin-left: 700px;
+    margin-top: -60px;
+    cursor: pointer;
+  }
+
+  .A1 {
+    padding: 20px;
+    margin-left: 100px;
+    margin-top: -60px;
+    font-size: 20px;
+  }
+  .A2 {
+    margin: 20px;
+    padding: 20px;
+    margin-left: 400px;
+    margin-top: -90px;
+    cursor: pointer;
+  }
+  .A3 {
+    margin: 20px;
+    padding: 20px;
+    margin-left: 600px;
+    margin-top: -110px;
+    cursor: pointer;
+  }
+  .A4 {
+    margin: 20px;
+    padding: 20px;
+    margin-left: 800px;
+    margin-top: -110px;
+    cursor: pointer;
+  }
+  .A5{
+    margin-left: 1130px;
+    margin-top : -50px;;
+    background-color: rgb(252, 254, 255); 
+    border-color:#00d0ff;
+    color: #00d0ff;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .t5{
+    margin-right: 200px;
+    background-color: rgb(252, 254, 255); 
+    border-color:#00d0ff;
+    color: #00d0ff;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .pay{
+    margin-left: 50px;
+    margin-top: 90px;
+  }
+  .payc{
+    color:#00d0ff ;
+  }
+
+  .Acc{
+    margin-left: 400px;
+    margin-top: -170px;
+  }
+  .B5{
+   
+    background-color: rgb(252, 254, 255); 
+    border-color:#00d0ff;
+    color: #00d0ff;
+    padding: 8px 16px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  .inp{
+   
+    padding: 8px 16px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 700px;
+    margin-top: -1500px;
+  }
+
+  
